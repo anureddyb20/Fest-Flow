@@ -1,4 +1,4 @@
-# <p align="center"><img src="website/logo.png" width="80" height="80" valign="middle"> <br> <b>FestFlow</b> | Smart Crowd Monitoring</p>
+# <p align="center"><b>FestFlow</b></p>
 
 
 <p align="center">
