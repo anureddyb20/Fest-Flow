@@ -36,7 +36,6 @@
 
 ## 🏗️ System Architecture
 
-### 🌀 The Data Journey
 ```mermaid
 graph TD
     U["👤 Participant"] -->|"Wears & Triggers"| Band["📡 Smart Band"]
