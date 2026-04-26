@@ -14,17 +14,6 @@
 
 ---
 
-## 📖 Table of Contents
-- [📌 Vision & Overview](#-vision--overview)
-- [🏗️ System Architecture](#️-system-architecture)
-- [🎨 Premium User Experience (UX)](#-premium-user-experience-ux)
-- [⚡ Core Features](#-core-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📂 Project Structure](#-project-structure)
-- [🚀 Getting Started](#-getting-started)
-
----
-
 ## 📌 Vision & Overview
 
 **FestFlow** is a high-fidelity crowd-monitoring ecosystem designed for large-scale public gatherings. By integrating physical IoT sensors with a live digital command center, we provide organizers with **360° visibility** into attendee movement, automatic medical distress detection, and streamlined emergency response.
