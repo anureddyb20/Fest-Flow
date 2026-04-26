@@ -39,22 +39,12 @@
 ### 🌀 The Data Journey
 ```mermaid
 graph TD
-    subgraph "Edge Layer"
-        A[📡 Smart Band] ---|SSL/TLS POST| B
-    end
-    subgraph "Cloud Infrastructure"
-        B((🔥 Firebase Realtime DB)) ---|WebSockets| C
-        B ---|HTTP Stream| D
-    end
-    subgraph "Analytics Hub"
-        C[🛡️ Admin Hub] ---|Socket Emits| D[🤝 Partner View]
-        C ---|Task Assignment| B
-    end
-    
-    style A fill:#2a2a2a,stroke:#00d1ff,stroke-width:2px,color:#fff
-    style B fill:#f57c00,stroke:#ffcc80,stroke-width:2px,color:#fff
-    style C fill:#388e3c,stroke:#a5d6a7,stroke-width:2px,color:#fff
-    style D fill:#1976d2,stroke:#90caf9,stroke-width:2px,color:#fff
+    U["👤 Participant"] -->|"Wears & Triggers"| Band["📡 Smart Band"]
+    Band -->|"SSL/TLS POST"| DB["🔥 Firebase Realtime DB"]
+    DB -->|"Live WebSockets"| Admin["🛡️ Admin Hub"]
+    Admin -->|"Assigns Tasks"| DB
+    Admin -->|"Socket Emits"| Partner["🤝 Partner View"]
+    DB -->|"Data Streaming"| Partner
 ```
 
 ---
