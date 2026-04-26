@@ -1,0 +1,15 @@
+{
+  "name": "festflow",
+  "version": "1.0.0",
+  "description": "Smart Crowd Monitoring System",
+  "main": "website/fest.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  },
+  "author": "FestFlow Team",
+  "license": "ISC"
+}
