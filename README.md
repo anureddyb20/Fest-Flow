@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#-vision--overview"><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=statuspage" alt="Status"></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-ESP32%20|%20Firebase%20|%20HTML5-blue?style=for-the-badge&logo=stackshare" alt="Stack"></a>
+  <a href="#-technology-stack"><img src="https://img.shields.io/badge/Stack-ESP32%20|%20Firebase%20|%20HTML5-blue?style=for-the-badge&logo=stackshare" alt="Stack"></a>
   <a href="#-premium-user-experience-ux"><img src="https://img.shields.io/badge/UX-Glassmorphic-magenta?style=for-the-badge&logo=adobeillustrator" alt="UX"></a>
   <a href="https://github.com/bharathkumar000/festflow/stargazers"><img src="https://img.shields.io/github/stars/bharathkumar000/festflow?style=for-the-badge&logo=github" alt="Stars"></a>
 </p>
@@ -19,7 +19,7 @@
 - [🏗️ System Architecture](#️-system-architecture)
 - [🎨 Premium User Experience (UX)](#-premium-user-experience-ux)
 - [⚡ Core Features](#-core-features)
-- [🛠️ Tech Stack](#-tech-stack)
+- [🛠️ Technology Stack](#️-technology-stack)
 - [📂 Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
 
@@ -77,19 +77,15 @@ A mobile-first interface optimized for ground staff response teams:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-<div align="center">
-
-| Component | Technology | Logo |
-| :--- | :--- | :---: |
-| **Frontend** | HTML5, CSS3, Vanilla JS | <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24"/> |
-| **Styling** | Modern CSS (Glassmorphism) | <img src="https://img.icons8.com/color/48/000000/css3.png" width="24"/> |
-| **GIS** | [Leaflet.js](https://leafletjs.com/) | <img src="https://img.icons8.com/color/48/000000/map.png" width="24"/> |
-| **Backend** | Firebase Realtime DB | <img src="https://img.icons8.com/color/48/000000/firebase.png" width="24"/> |
-| **Hardware** | ESP32-WROOM-32E | <img src="https://img.icons8.com/color/48/000000/iot-sensor.png" width="24"/> |
-
-</div>
+| Component | Technology |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, Vanilla JS |
+| **Styling** | Modern CSS (Glassmorphism) |
+| **GIS** | [Leaflet.js](https://leafletjs.com/) |
+| **Backend** | Firebase Realtime DB |
+| **Hardware** | ESP32-WROOM-32E |
 
 ---
 
