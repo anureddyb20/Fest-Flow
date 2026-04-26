@@ -1,8 +1,5 @@
 # <p align="center"><img src="website/logo.png" width="80" height="80" valign="middle"> <br> <b>FestFlow</b> | Smart Crowd Monitoring</p>
 
-<p align="center">
-  <img src="assets/banner.png" alt="FestFlow Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-</p>
 
 <p align="center">
   <b>The ultimate synergy of IoT Hardware and Real-Time Analytics for next-generation festival safety.</b>
